@@ -148,7 +148,7 @@ CRR = (1.0 - CER) * 100.0
   * https://pytorch.org 에서 로컬 머신에 맞는 pytorch 설치 (1.0 이상 권장)
 3. nsml local package
   ```bash
-  [hack]$ pip install git+https://oss.navercorp.com/nsml/nsml-local.git
+  [hack]$ pip install git+https://github.com/n-CLAIR/nsml-local
   ```
 #### 2. Training
   ```bash
